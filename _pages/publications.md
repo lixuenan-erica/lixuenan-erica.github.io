@@ -19,9 +19,9 @@ author_profile: true
 
 ## Working papers
 
+- [The Marginal Value of Cash: Structural Estimates from a Model with Financing and Agency Frictions](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4000431), with Sudipto Dasgupta and Di Li, Revise & Resubmit at ***Management Science***
 - [Asymmetric Investment Rates](https://www.nber.org/papers/w29957), with Hang Bai, Chen Xue, and Lu Zhang
 - [Fundamental Anomalies](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3783526), with Guoliang Ma, Shujing Wang, and Cindy Yu
-- [The Marginal Value of Cash: Structural Estimates from a Model with Financing and Agency Frictions](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4000431), with Sudipto Dasgupta and Di Li
 - [The Impact of Securities Regulation on New Keynesian Firms](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3963813), with Jin Xie and Ji Zhang
 
 
