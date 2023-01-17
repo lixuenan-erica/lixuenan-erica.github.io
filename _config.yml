@@ -85,6 +85,7 @@ author:
   bio              : "Professor of Finance, Executive Academic Director for DBA Program at CKGSB"
   location         : "Beijing, China"
   employer         :
+  SSRN             : "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=456672"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            :
