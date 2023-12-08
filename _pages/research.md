@@ -19,7 +19,7 @@ author_profile: true
 
 ## Working papers
 
-- [Firm-level Irreversibility](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4653045), with Hang Bai, Chen Xue, and Lu Zhang, Reject & Resubmit at ***Journal of Finance***
+- [Firm-Level Irreversibility](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4653045), with Hang Bai, Chen Xue, and Lu Zhang, Reject & Resubmit at ***Journal of Finance***
 - [The Marginal Value of Cash: Structural Estimates from a Model with Financing and Agency Frictions](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4000431), with Sudipto Dasgupta and Di Li, Revise & Resubmit at ***Management Science***
 - [Asymmetric Investment Rates](https://www.nber.org/papers/w29957), with Hang Bai, Chen Xue, and Lu Zhang
 - [Fundamental Anomalies](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3783526), with Guoliang Ma, Shujing Wang, and Cindy Yu, Revise & Resubmit at ***Management Science***
